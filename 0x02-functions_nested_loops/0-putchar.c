@@ -2,8 +2,7 @@
 
 /**
  * main - print _putchar
- *  is written by Ben
- * 
+ * is written by Ben
  * Always return 0
  */
 int main(void)
@@ -17,6 +16,5 @@ int main(void)
     _putchar('a');
     _putchar('r');
     _putchar('\n');
-
     return (0);
 }
